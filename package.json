@@ -1,0 +1,23 @@
+{
+  "name": "Loan-Calculator",
+  "version": "1.0.0",
+  "description": "Loan-Calculator\r ===============",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonalmaturner/Loan-Calculator"
+  },
+  "author": "Jason Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonalmaturner/Loan-Calculator/issues"
+  },
+  "homepage": "https://github.com/jasonalmaturner/Loan-Calculator",
+  "dependencies": {
+    "express": "^4.9.7"
+  }
+}
